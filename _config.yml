@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0
+  brandStrength: 0.04793582
+  lightness: 0.234767
+  rhythmicContrast: 0.7150537
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.2258064
+name: plerichiu
