@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[plerichiu]]></title>
         <description><![CDATA[plerichiu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/plerichiu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 16:42:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 00:10:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/plerichiu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Layer of Color]]></title>
-            <description><![CDATA[<article><h1>Layer of Color</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f630e939cb1e6f62825d762e4304f5ed900eb5d.jpg"></article>]]></description>
-            <link>undefined8e12db79-c1d7-45d6-9828-83877cd83273/index.html</link>
+            <description><![CDATA[<article><h1>Layer of Color</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7ec7cc9b850d12c7f876212cb490d436f23f921.jpg"></article>]]></description>
+            <link>https://thegrid.ai/plerichiu/8e12db79-c1d7-45d6-9828-83877cd83273/index.html</link>
             <guid isPermaLink="false">8e12db79-c1d7-45d6-9828-83877cd83273</guid>
-            <pubDate>Fri, 15 Jan 2016 16:42:26 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 00:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
