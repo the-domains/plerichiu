@@ -1,7 +1,18 @@
+layout_spectrum: 0.09335794532671571
+typography_spectrum: 0.29443536256439984
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.6633858794812113
+  lightness: 0.7476594946347177
+  saturation: 0.3146373420022428
+  rhythmicContrast: 0.09692946425639093
 name: plerichiu
 favicon: null
-layout_spectrum: 0.51336
-typography_spectrum: 0.15381
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#100e0f'
-    - '#d5c3bd'
-    - '#bf8c6f'
-    - '#995d4a'
-  brandStrength: 0.625
-  lightness: 0.5625
-  saturation: 0.3125
-  rhythmicContrast: 0
 purpose: []
